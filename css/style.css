@@ -490,6 +490,7 @@ ol {
 .send-email-button {
   cursor: pointer;
   min-width: 165px;
+  border: none;
 
   display: flex;
   align-items: center;
@@ -513,7 +514,7 @@ ol {
 .send-email-button:focus {
   background-color: #31d0aa;
 }
-.send-email-icon {
+.send-icon {
   fill: #ffffff;
   margin-left: 16px;
 }
