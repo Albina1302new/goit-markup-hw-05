@@ -659,10 +659,10 @@ img {
 .modal-form-input:focus .modal-icon {
   fill: #4d5ae5;
 }
-/* .modal-btn:hover > .modal-close-icon,
-.modal-btn:focus > .modal-close-icon {
+.modal-btn:hover,
+.modal-btn:focus {
   fill: #ffffff;
-} */
+}
 
 .modal-form-comment {
   margin-bottom: 16px;
