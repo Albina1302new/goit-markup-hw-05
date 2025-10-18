@@ -657,7 +657,9 @@ img {
 .modal-icon:focus {
   fill: #4d5ae5;
 }
-
+.modal-form-input {
+  fill: #4d5ae5;
+}
 .modal-form-comment {
   margin-bottom: 16px;
 }
